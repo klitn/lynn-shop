@@ -11,6 +11,29 @@ The following are the features of the Lynn Shop Management System:
 4. Get the total transactions of the shop.
 5. Get statistical data per day.
 
+
+## Demo 
+
+### Login 
+![login%202](./image/login%202.jpg)
+### Home Page.
+![](./image/trang%20chủ.jpg)
+
+### Employee Management.
+![](./image/qli%20nhân%20viên.jpg)
+
+
+### Product Management.
+
+![](./image/qli%20sản%20phẩm.jpg)
+
+### Invoice Management.
+![](./image/quản%20lí%20hóa%20đơn.jpg)
+
+### Statistics.
+![](./image/thống%20kê.jpg)
+
+
 ## Installation
 To install the Lynn Shop Management System, follow the steps below:
 
