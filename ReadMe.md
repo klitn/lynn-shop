@@ -51,17 +51,21 @@ The application provides revenue statistics that allow the store manager to view
 2.Package controller: Manage data query operations with functions such as adding, editing, deleting, searching, displaying list, revenue statistics.
 3.Package view: Contains user interfaces that receive user requests, send requests to the controller to process data, return results to update the display interface.
 
-### Description of the implementation steps:
-1.Step 1: Design MySQL database and create employees, products, invoice and invoice details tables.
-2.Step 2: Create classes Nhanvien, Sanpham, HoaDon, SanphamCT to manage information of the respective object classes.
-3.Step 3: Create Controller class to perform data query operations with MySQL database.
-4.Step 4: Design and create user interfaces, including Login, Home, QLnhanvien, QLsanpham, Capnhatdonhang, Thongke.
-5.Step 5: Add functions to the user interfaces as follows:
--Login: Allows users to log into the system with an account and password.
--QLnhanvien: Allows users to manage employee information, including adding, editing, deleting, and searching for employees.
--QLsanpham: Allows users to manage product information, including adding, editing, deleting and searching products.
--Capnhatdonhang: Allows users to create new invoices, modify or delete previously created invoices.
--Thongke: Allows users to view the entire store's sales statistics and statistics by day or month.
+## Description of the implementation steps:
+1. Design MySQL database and create employees, products, invoice and invoice details tables.
+2. Create classes Nhanvien, Sanpham, HoaDon, SanphamCT to manage information of the respective object classes.
+3. Create Controller class to perform data query operations with MySQL database.
+4. Design and create user interfaces, including Login, Home, QLnhanvien, QLsanpham, Capnhatdonhang, Thongke.
+5. Add functions to the user interfaces as follows:
+- Login: Allows users to log into the system with an account and password.
+- QLnhanvien: Allows users to manage employee information, including adding, editing, deleting, and searching for employees.
+- QLsanpham: Allows users to manage product information, including adding, editing, deleting and searching products.
+- Capnhatdonhang: Allows users to create new invoices, modify or delete previously created invoices.
+- Thongke: Allows users to view the entire store's sales statistics and statistics by day or month.
 
+## Conclusion:
+In this report, I presented a java project with functions of employee management, product management, invoice management and revenue statistics. I have described the class diagram and the implementation steps. This project will help businesses manage employee information, products, invoices and revenue statistics easily and effectively.
 
+## Video Demo
 
+[Video Demo](https://www.youtube.com/watch?v=0yHtYPeK2Jg)
