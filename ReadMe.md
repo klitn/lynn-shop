@@ -64,20 +64,20 @@ The application provides revenue statistics that allow the store manager to view
    - Thongke: Allows users to view the entire store's sales statistics and statistics by day or month.
 
 ## User manual
-1. Run the application on the computer
+1. Run the application on the computer.
 2. At the login interface, the user enters the account and password.
 3. At the Home interface, users can select the functions they want to use by clicking on the corresponding button. The application will then display an interface that implements this function.
 4. At the Employee Management interface, users can use the functions of adding, editing, deleting and searching by employee code or employee name.
-   - If the user wants to add a new employee to the system, they will fill in the employee's information in the corresponding boxes on the interface and click the "Add" button to complete the operation.
-  - If the user wants to edit an employee on the system, the user will click on the employee he wants to edit on the board and edit the content he wants to edit, then click the "Edit" button to complete the operation.
-  - If the user wants to delete an employee on the system, the user will click on the employee he wants to delete on the table and then click the "Delete" button to complete the operation.
-  - If the user wants to search for an employee on the system, the user will enter the employee code or the name of the employee he wants to search and then click the "Find" button to complete the operation.
+- If the user wants to add a new employee to the system, they will fill in the employee's information in the corresponding boxes on the interface and click the "Add" button to complete the operation.
+- If the user wants to edit an employee on the system, the user will click on the employee he wants to edit on the board and edit the content he wants to edit, then click the "Edit" button to complete the operation.
+- If the user wants to delete an employee on the system, the user will click on the employee he wants to delete on the table and then click the "Delete" button to complete the operation.
+- If the user wants to search for an employee on the system, the user will enter the employee code or the name of the employee he wants to search and then click the "Find" button to complete the operation.
 5. At the Product Management interface, users can use the functions of adding, editing, deleting and searching by product code or product name similar to the employee management function.
 6. At the Invoice Management interface, users can use the functions of adding, editing and deleting invoices.
-   - If the user wants to add an invoice, fill in the customer information, select the salesperson code, and the order date. Next, click on the product the customer wants to buy in the product table and enter the number of products they want to buy. Then, click on the “Add Product” button to add a product in the product detail table. In case if the user places the wrong order, the user can click in the detailed product table to delete the previously ordered product. Finally, click on the “Save Invoice” button to save the invoice in the invoice table.
-  - If the user wants to invoice an invoice on the system, the user will click on the invoice he wants to delete on the invoice table and click the "Delete invoice" button to complete the operation.
+- If the user wants to add an invoice, fill in the customer information, select the salesperson code, and the order date. Next, click on the product the customer wants to buy in the product table and enter the number of products they want to buy. Then, click on the “Add Product” button to add a product in the product detail table. In case if the user places the wrong order, the user can click in the detailed product table to delete the previously ordered product. Finally, click on the “Save Invoice” button to save the invoice in the invoice table.
+- If the user wants to invoice an invoice on the system, the user will click on the invoice he wants to delete on the invoice table and click the "Delete invoice" button to complete the operation.
 7. At the revenue statistics interface, users can perform functions such as invoice statistics by day, month and year. Displays the total total sales of the store.
-   - If the user wants to record the revenue, enter the date that the user wants to make statistics and then click the "Find" button to complete the operation.
+- If the user wants to record the revenue, enter the date that the user wants to make statistics and then click the "Find" button to complete the operation.
 
 ## Conclusion:
 - In this report, I presented a java project with functions of employee management, product management, invoice management and revenue statistics. 
@@ -87,9 +87,3 @@ The application provides revenue statistics that allow the store manager to view
 ## Video Demo
 
 [Video Demo](https://youtu.be/2YXKEe6MATs)
-
-
-
-
-
-
